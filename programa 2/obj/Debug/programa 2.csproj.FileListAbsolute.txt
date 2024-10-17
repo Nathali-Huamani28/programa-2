@@ -1,0 +1,8 @@
+C:\Users\nathali\OneDrive\programa 2\programa 2\programa 2\bin\Debug\programa 2.exe.config
+C:\Users\nathali\OneDrive\programa 2\programa 2\programa 2\bin\Debug\programa 2.exe
+C:\Users\nathali\OneDrive\programa 2\programa 2\programa 2\bin\Debug\programa 2.pdb
+C:\Users\nathali\OneDrive\programa 2\programa 2\programa 2\obj\Debug\programa 2.csproj.AssemblyReference.cache
+C:\Users\nathali\OneDrive\programa 2\programa 2\programa 2\obj\Debug\programa 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nathali\OneDrive\programa 2\programa 2\programa 2\obj\Debug\programa 2.csproj.CoreCompileInputs.cache
+C:\Users\nathali\OneDrive\programa 2\programa 2\programa 2\obj\Debug\programa 2.exe
+C:\Users\nathali\OneDrive\programa 2\programa 2\programa 2\obj\Debug\programa 2.pdb
